@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Junior Software Engineer with hands-on experience in building scalable and user-focused web applications using Laravel, React.js, MySQL, and modern JavaScript frameworks. I have worked on developing a web-based document editor similar to Google Docs, where I contributed to features like version history management, document templates, and offline functionality, along with structured XML conversion.
+I am a passionate Software Engineer with hands-on experience in building scalable and user-focused web applications using Laravel, React.js, MySQL, and modern JavaScript frameworks. I have worked on developing a web-based document editor similar to Google Docs, where I contributed to features like version history management, document templates, and offline functionality, along with structured XML conversion.
 
 
 ## 🌐 Socials:
